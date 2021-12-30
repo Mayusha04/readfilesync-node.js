@@ -1,0 +1,4 @@
+The synchronus version of to read file is readFilesync().
+The asynchronus vesion to read file is readFile().
+both read the full content of the file in memorybefore returning the data.
+Hii everyone.
